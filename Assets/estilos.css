@@ -1,0 +1,17 @@
+.header-fondo{
+    background-image: url(Imgs/fondodonas.jpg);
+height: 98px;
+background-position: center;
+background-size: cover;
+}
+
+.footer{
+    justify-content: center;
+}
+
+footer{
+    background-color: rgb(100, 0, 95);
+    height: 25px;
+     align-content: center;
+     text-align: center;
+}
